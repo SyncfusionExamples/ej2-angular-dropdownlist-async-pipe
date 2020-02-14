@@ -12,4 +12,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 To bind with Observable/HttpClient data to DropDownList, please refer to the below documentation which explains this sample.
 
-[https://ej2.syncfusion.com/angular/documentation/grid/observables/](https://ej2.syncfusion.com/angular/documentation/grid/observables/)
+[https://ej2.syncfusion.com/angular/documentation/drop-down-list/data-binding/#data-binding-using-async-pipe](https://ej2.syncfusion.com/angular/documentation/drop-down-list/data-binding/#data-binding-using-async-pipe)
